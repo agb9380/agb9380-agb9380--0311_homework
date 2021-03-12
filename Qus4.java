@@ -2,7 +2,7 @@ package sugang0311;
 
 import java.util.Scanner;
 
-public class Qus4 { //소수 판
+public class Qus4 { //소수 판별
 
 	public static void main(String[] args) {
 
